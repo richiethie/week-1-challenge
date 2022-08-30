@@ -2,7 +2,10 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
 }
+
 
 body {
     background-color: #d9dcd6;
@@ -10,16 +13,13 @@ body {
 
 .header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
     text-decoration: none;
 }
 
 h1 {
     display: inline-block;
     font-size: 48px;
-    color: #ffffff;
 }
 
 .seo {
@@ -30,7 +30,6 @@ h1 {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -44,7 +43,6 @@ h1 {
 }
 
 a {
-    color: #ffffff;
     text-decoration: none;
 }
 
@@ -84,13 +82,11 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
 section {
     margin-bottom: 32px;
-    color: #ffffff;
 }
 
 h3 {
@@ -108,9 +104,7 @@ section img {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
 }
 .horiseon img {
     max-height: 200px;
@@ -124,8 +118,8 @@ h2 {
 .footer {
     padding: 30px;
     clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    background-color: #2a607c;
     
 }
 
