@@ -14,4 +14,4 @@ Overall, I learned how to fix a broken link in HTML and also reducing the amount
 
 End result of Webpage:
 
-![alt text](assets/01-html-css-git-homework-demo.png)
+![alt Horiseon Website Photo](assets/01-html-css-git-homework-demo.png)
