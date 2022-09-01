@@ -8,7 +8,7 @@ The main reason I started this project was to learn how to condense CSS to make 
 
 The problem with the website was when the first link "Search Engine Optimization" was clicked on, nothing happened. By reducing the amount of CSS commands used, it also makes it a lot easier to read through all of the CSS and make new changes if needed.
 
-Overall, I learned how to fix a broken link in HTML and also reducing the amount of CSS commands that are used in my code.
+Overall, I learned how to fix a broken link in HTML, and also reducing the amount of CSS commands that are used in my code.
 
 ## Final Result
 
